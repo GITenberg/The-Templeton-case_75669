@@ -1,0 +1,56 @@
+_repo: The-Templeton-case_75669
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whitechurch, Victor L. (Victor Lorenzo)
+    aliases:
+    - Whitechurch, V. L. (Victor Lorenzo)
+    - Whitechurch, Victor Lorenzo
+    birthdate: 1868
+    deathdate: 1933
+    gutenberg_agent_id: '58089'
+    url: http://www.gutenberg.org/2009/agents/58089
+    wikipedia: https://en.wikipedia.org/wiki/Victor_Whitechurch
+description: 'Reading ease score: 85.1 (6th grade). Easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Crime/Mystery'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75669'
+  lccn: '24021589'
+language: en
+pgterms:marc904: https://archive.org/details/templetoncase00whit
+pgterms:marc905: 20250312063717whitechurc
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aUnited States :$bEdward J. Clode, Inc., $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Police -- England -- Fiction'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcc 'PR'
+- GITenberg
+summary: '"The Templeton Case" by Victor L. Whitechurch is a detective novel written
+  in the early 20th century. The story opens in the quaint seaside village of Marsh
+  Quay, where the characters and setting lay the foundation for a mystery involving
+  murder, intrigue, and clues that weave together the lives of various individuals,
+  particularly revolving around the enigmatic Reginald Templeton. Readers can expect
+  to delve into a web of relationships and secrets as Detective-Sergeant Colson pursues
+  the truth behind the crime.  At the start of the novel, we are introduced to Tom
+  Gale, a laid-back crewman of a small schooner, and the arrival of Reginald Templeton
+  on a yacht. Templeton''s engagement in boating and a mysterious visit across the
+  estuary hint at deeper connections and potential motives. As Templeton''s fate takes
+  a grim turn with his murder discovered soon after by his crew member, Jim Webb,
+  the tension escalates. Characters like Mrs. Yates, the landlady of the "Mariner’s
+  Arms," and Mr. Proctor, a local gentleman, become entwined in the unfolding investigation.
+  The narrative expertly sets the stage for a classic whodunit, promising misdirection
+  and evolving clues as Detective-Sergeant Colson works diligently to untangle the
+  mystery surrounding Templeton''s death. (This is an automatically generated summary.)'
+title: The Templeton case
+url: http://www.gutenberg.org/ebooks/75669
