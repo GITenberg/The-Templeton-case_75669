@@ -1,5 +1,8 @@
 _repo: The-Templeton-case_75669
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75669-h/images/cover.jpg
 creator:
   author:
     agent_name: Whitechurch, Victor L. (Victor Lorenzo)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58089
     wikipedia: https://en.wikipedia.org/wiki/Victor_Whitechurch
 description: 'Reading ease score: 85.1 (6th grade). Easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75669#The-Templeton-case
 gutenberg_bookshelf:
 - 'Browsing: Crime/Mystery'
 - 'Browsing: Fiction'
